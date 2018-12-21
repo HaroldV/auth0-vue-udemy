@@ -1,5 +1,7 @@
 # auth0-vue-udemy
 
+Secure Your VueJs Applications With Auth0, https://www.udemy.com/secure-your-vuejs-applications-with-auth0/
+
 ## Project setup
 ```
 yarn install
